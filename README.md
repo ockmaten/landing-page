@@ -1,0 +1,1 @@
+This is the second project for the odin project foundations curriculum. It is a landing page.
