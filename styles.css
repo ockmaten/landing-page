@@ -1,17 +1,17 @@
 html, body{
     height: 100%;
-    width: 100%;
 }
 
 body{
 display: flex;
 font-family: Roboto, sans-serif;
-border: solid coral;
+/*border: solid coral;*/
 }
 
 img {
 width: 60px;
-border: solid green;
+/*border: solid green;*/
+padding: 16px;
 }
 
 ul{
@@ -21,19 +21,22 @@ padding: 0;
 }
 
 a{
-    text-decoration: none;
+text-decoration: none;
 }
 
 .container1{
 display:flex;
 justify-content: space-between;
 align-items: center;
+gap:500px;
 }
 
 ul{
 display:flex;
-justify-content: space-evenly;
+justify-content: space-between;
 align-items: center;
 gap: 16px;    
-border: solid cornflowerblue;
+/*border: solid cornflowerblue;*/
+padding-left: 400px;
 }
+
